@@ -1,5 +1,5 @@
 MERN Realtime Chat App
-A fully functional real-time chat application built using the MERN stack, Socket.io, TailwindCSS, and Daisy UI. This app demonstrates modern web development practices including authentication, global state management, error handling, and deployment.
+A fully functional real-time chat application built using the MERN stack, Socket.io, TailwindCSS, and Daisy UI. This app demonstrates modern web development practices including authentication, global state management, error handling.
 
 Features
 Real-time Messaging: Powered by Socket.io for instant communication.
