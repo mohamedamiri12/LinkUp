@@ -8,7 +8,7 @@ Online User Status: See who's online in real-time.
 Global State Management: State handled seamlessly with Zustand.
 Error Handling: Robust error management on both client and server.
 Beautiful UI: Styled with TailwindCSS and Daisy UI for a sleek and responsive interface.
-Free Deployment: Deploy like a pro using free resources at the end of the project.
+
 
 
 Tech Stack 🛠️
